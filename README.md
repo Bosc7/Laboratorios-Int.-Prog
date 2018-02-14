@@ -1,1 +1,1 @@
-//Lab#2 Editas codigo debajo de aqui
+//Lab#2 Edite codigo debajo de aqui
